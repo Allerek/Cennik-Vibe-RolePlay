@@ -662,3 +662,74 @@
 | Pojazd       | Cena   |
 | ------------ | ------ |
 | Vapid Sadler | $16430 |
+
+---
+
+# Wenger Luxury
+
+| Pojazd                       | Cena       |
+| ---------------------------- | ---------- |
+| Grotti Cheetah               | $950,000   |
+| Grotti Furia                 | $1,550,000 |
+| Grotti Italii GTO            | $1,375,000 |
+| Grotti RSX                   | $2,700,000 |
+| Grotti Turismo R             | $1,800,000 |
+| Grotti Visione R             | $2,500,000 |
+| Grotti X80 Proto             | $4,250,000 |
+| Grotti Italli GTO Stinger TT | $1,600,000 |
+| Pegassi Infernus             | $1,000,000 |
+| Pegassi Osiris               | $1,600,000 |
+| Pegassi Reaper               | $980,000   |
+| Pegassi Tempesta             | $1,350,000 |
+| Pegassi Tezeract             | $3,800,000 |
+| Pegassi Vacca                | $870,000   |
+| Pegassi Zentorno             | $2,100,000 |
+| Pegassi Zorusso              | $1,900,000 |
+| Pegassi Toros                | $790,000   |
+| Pegassi Torero XO            | $3,050,000 |
+| Pegassi Ignus                | $3,300,000 |
+| Pegassi Tempesta Spyder      | $1,600,000 |
+| Progen Emerus                | $1,800,000 |
+| Progen GP1                   | $2,000,000 |
+| Progen Itali GTB             | $700,000   |
+| Progen Itali GTB Custom      | $880,000   |
+| Progen T20                   | $1,675,000 |
+| Progen MF1 Spyder            | $1,790,000 |
+| Overflod Entity XF           | $1,400,000 |
+| Overflod Entity XXR          | $1,800,000 |
+| Overflod Entity MT           | $3,550,000 |
+| Overflod Tyrant              | $2,300,000 |
+| Overflod Imorgon             | $570,000   |
+| Overflod Zeno                | $2,650,000 |
+| Enus Congoscenti Cabrio      | $710,000   |
+| Enus Congoscenti 55          | $590,000   |
+| Enus Congoscenti             | $580,000   |
+| Enus Windsor Cabrio          | $745,000   |
+| Enus Super Diamond S         | $815,000   |
+| Enus Super Diamond           | $600,000   |
+| Enus Windsor Coupe           | $705,000   |
+| Enus Windsor Drop 2D         | $750,000   |
+| Enus Jubilee                 | $785,000   |
+| Enus Deity                   | $600,000   |
+| Truffade Adder               | $1,080,000 |
+| Truffade Nero                | $2,000,000 |
+| Truffade Nero Custom         | $2,300,000 |
+| Truffade Thrax R             | $2,800,000 |
+| Benefactor Krieger           | $1,400,000 |
+| Benefactor Dubsta 6x6        | $1,300,000 |
+| Benefactor SM722             | $2,250,000 |
+| Benefactor Schlagen GT       | $800,000   |
+| Vapid FMJ                    | $1,700,000 |
+| Vapid Bullet                 | $750,000   |
+| Pfister 811                  | $850,000   |
+| Obey 10F                     | $1,350,000 |
+| Obey Omnis E-GT              | $700,000   |
+| Lampadati Tigon              | $2,050,000 |
+| Lampadati Corsita            | $1,500,000 |
+| Ocelot XA-21                 | $1,550,000 |
+| Ocelot Virtue                | $2,790,000 |
+| Coil Cyclone                 | $720,000   |
+| Cheval Taipan                | $1,700,000 |
+| Dewbauchee Vanger            | $1,450,000 |
+| Ubermacht SC1                | $750,000   |
+| Vysser Neo                   | $1,800,000 |
