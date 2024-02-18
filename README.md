@@ -270,57 +270,397 @@
 
 # Premium Deluxe Motorsport
 
+#### Coupé
+| Pojazd                                | Cena    |
+| ------------------------------------- | ------- |
+| Ocelot F620                           | $150,000 |
+| Lampadati Felon GT                    | $75,000  |
+| Obey 9F Cabrio                        | $225,000 |
+| Ubermacht Vorstand                    | $180,000 |
+| Coil Voltic                           | $150,000 |
+| Pfister Comet S2 Cabrio               | $310,000 |
+| Ubermacht Cypher Compact              | $135,000 |
+
+#### Muscle
+| Pojazd                                | Cena     |
+| ------------------------------------- | -------- |
+| Imponte Nightshade                    | $125,000 |
+| Schyster Deviant                      | $180,980 |
+| Bravado Gauntlet Hellfire             | $120,000 |
+| Vapid Dominator GTX                   | $108,000 |
+| Declasse Vigero 690-SS                | $135,000 |
+| Bravado Buffalo A/C                   | $55,000  |
+| Vapid Hotknife                        | $120,000 |
+| Vapid Hustler                         | $108,000 |
+| Bravado Buffalo Hellhound             | $80,000  |
+| Bravado Buffalo Hellfire              | $213,500 |
+
+#### Offroad
+| Pojazd                                | Cena    |
+| ------------------------------------- | ------- |
+| Canis Kamacho                         | $110,000 |
+| Coil Brawler                          | $230,000 |
+
+#### SUV
+| Pojazd                                | Cena    |
+| ------------------------------------- | ------- |
+| Benefactor XLS                        | $140,230 |
+| Lampadati Novak                       | $170,600 |
+| Benefactor Dubsta                     | $225,000 |
+| Ubermacht Rebla GTS                   | $205,000 |
+| Benefactor Dubsta 2                   | $275,000 |
+| Obey Rocoto                           | $185,000 |
+| Canis Freecrawler                     | $140,000 |
+| Vapid Contender                       | $130,000 |
+| Vapid Guardian                        | $125,000 |
+| Pfister Astron                        | $235,000 |
+| Obey I-Wagen                          | $264,000 |
+| Benefactor Streiter                   | $108,000 |
+| Benefactor Dubsta I gen               | $245,000 |
+
+#### Sedan
+| Pojazd                                | Cena    |
+| ------------------------------------- | ------- |
+| Dewbauchee Exemplar                   | $115,000 |
+| Ubermacht Oracle XS                   | $68,000  |
+| Ocelot Jackal                         | $96,000  |
+| Ocelot Jugular                        | $398,554 |
+| Pfister Neon                          | $550,000 |
+| Lampadati Felon                       | $70,000  |
+| Obey Tailgater S                      | $120,000 |
+| Coil Taranis                          | $250,000 |
+| Vapid Torrence                        | $75,000  |
+| Übermacht Seraph XS II gen            | $109,500 |
+
+#### Sport
+| Pojazd                                | Cena    |
+| ------------------------------------- | ------- |
+| Grotti Bestia GTS                     | $280,000 |
+| Grotti Carbonizzare                   | $190,000 |
+| Pfister Comet                         | $135,000 |
+| Obey 8F Drafter                       | $192,600 |
+| Lampadati Furore GT                   | $210,000 |
+| Obey 9F                               | $210,000 |
+| Enus Paragon R                        | $425,000 |
+| Ocelot Pariah                         | $420,000 |
+| Coil Raiden                           | $270,850 |
+| Dewbauchee Rapid GT                   | $110,000 |
+| Dewbauchee Seven-70                   | $375,410 |
+| Dewbauchee Specter                    | $195,000 |
+| Benefactor Surano                     | $110,000 |
+| Albany V-STR                          | $160,000 |
+| Pfister Comet SR                      | $250,790 |
+| Hijak Khamelion                      | $340,000 |
+| Ocelot Lynx                           | $189,000 |
+| Ocelot Locust                         | $245,000 |
+| Dewbauchee Massacro                   | $133,000 |
+| Lampadati Komoda                      | $234,100 |
+| Dewbauchee Super GTS                  | $425,000 |
+| Pfister Comet S2                      | $300,000 |
+| Emperor Vectre                        | $130,000 |
+| Pfister Growler                       | $220,000 |
+| Ubermacht Cypher                      | $150,000 |
+| Pfister Apollo                        | $145,000 |
+| Benefactor Schafter V12               | $115,000 |
+| Übermacht Oracle XS-LE                | $185,000 |
+| Lampadati Cinquemila                  | $395,000 |
+| Übermacht Rhinehart                   | $179,000 |
+
+---
+
+# Pillbox Hill Car Dealership
+
+### Coupé
+| Pojazd            | Cena  |
+| ----------------- | ----- |
+| Albany Manana     | $9100 |
+| Albany Virgo      | $9540 |
+| BF Weevil         | $21000 |
+| Willard Idaho     | $7000 |
+
+### Kompakt
+| Pojazd                   | Cena   |
+| ------------------------ | ------ |
+| Karin Dilettante DX     | $2500  |
+| Benefactor Panto        | $2500  |
+| Weeny Issi              | $4300  |
+| Emperor Habanero        | $8000  |
+| Bollokan Prairie        | $6250  |
+| BF Club                 | $28000 |
+| Declasse Rhapsody       | $24000 |
+| Maxwell Asbo            | $15000 |
+
 ### Muscle
-| Pojazd                    | Cena     |
-| ------------------------- | -------- |
-| Bravado Buffalo Hellfire  | $213,500 |
-| Declasse Vigero ZX        | $211,500 |
-| Declasse Vigero ZX Cabrio | $200,000 |
-| Schyster Deviant          | $180,980 |
-| Declasse Vigero 690-SS    | $135,000 |
-| Imponte Nightshade        | $125,000 |
-| Vapid Hotknife            | $120,000 |
-| Bravado Gauntlet Hellfire | $120,000 |
-| Vapid Hustler             | $108,000 |
-| Vapid Dominator GTX       | $108,000 |
-| Bravado Buffalo Hellhound | $80,000  |
-| Bravado Buffalo SX        | $68,700  |
-| Bravado Buffalo SL        | $63,000  |
-| Bravado Buffalo A/C       | $55,000  |
+| Pojazd                    | Cena   |
+| ------------------------- | ------ |
+| Vapid Blade               | $35000 |
+| Albany Buccaneer          | $14000 |
+| Declasse Vigero           | $21500 |
+| Declasse Yosemite         | $21000 |
+| Willard Faction           | $7750  |
+| Vapid Chino               | $12300 |
+| Imponte Dukes             | $42400 |
+| Cheval Picador            | $8900  |
+| Dundreary Virgo Classic  | $34000 |
+| Vapid Peyote              | $25000 |
+| Declasse Merit Classic    | $14500 |
+
+### Offroad
+| Pojazd                   | Cena   |
+| ------------------------ | ------ |
+| Canis Seminole Frontier  | $24000 |
+| Declasse Yosemite Rancher| $28000 |
+| Karin Rebel              | $27000 |
+| Bravado Bison FL         | $12000 |
+
+### SUV
+| Pojazd                      | Cena   |
+| --------------------------- | ------ |
+| Declasse Rancher XL         | $15160 |
+| Canis Seminole              | $15400 |
+| Albany Cavalcade            | $15840 |
+| Declasse Moonbeam           | $7700  |
+| Vapid Radius                | $9000  |
+| Vapid Sadler                | $16430 |
+| Gallivanter Baller Classic SWB| $8000 |
+
+### Sedan
+| Pojazd                        | Cena   |
+| ----------------------------- | ------ |
+| Karin Asterope                | $8000  |
+| Benefactor Glendale           | $11020 |
+| Cheval Fugitive               | $12000 |
+| Dundreary Regina              | $5560  |
+| Declasse Asea                 | $6230  |
+| Albany Emperor                | $6310  |
+| Vulcar Ingot                  | $7180  |
+| Declasse Premier              | $8250  |
+| Vapid Stanier                 | $9450  |
+| Albany Primo                  | $10240 |
+| Vapid Stanier Taxi            | $25000 |
+| Vapid Stanier 2nd             | $35000 |
+| Dundreary Admiral             | $6000  |
+| Willard Tahoma                | $7000  |
 
 ### Sport
-| Pojazd                  | Cena     |
-| ----------------------- | -------- |
-| Enus Paragon R          | $425,000 |
-| Dewbauchee Super GTS    | $425,000 |
-| Ocelot Pariah           | $420,000 |
-| Lampadati Cinquemila    | $395,000 |
-| Dewbauchee Seven-70     | $375,410 |
-| Hijak Khamellion        | $340,000 |
-| Toundra Panthere        | $340,000 |
-| Pfister Comet S2        | $300,000 |
-| Grotti Besta GTS        | $280,000 |
-| Coil Raiden             | $270,850 |
-| Pfister Comet SR        | $350,790 |
-| Ocelot Locust           | $245,000 |
-| Obey Argento            | $235,000 |
-| Lampadati Komoda        | $234,100 |
-| Pfister Growler         | $220,000 |
-| Obey 9F                 | $210,000 |
-| Lampadati Furore GT     | $210,000 |
-| Dewbauchee Specter      | $195,000 |
-| Obey 8F Drafter         | $192,800 |
-| Grotti Carbonizzare     | $190,000 |
-| Ocelot Lynx             | $189,000 |
-| Karin Asterope RS       | $187,500 |
-| Ubermacht Oracle XS-LE  | $185,000 |
-| Ubermacht Rhinehart     | $179,000 |
-| Albany V-STR            | $160,000 |
-| Ubermacht Cypher        | $150,000 |
-| Pfister Apollo          | $145,000 |
-| Pfister Comet           | $135,000 |
-| Dewbauchee Massacro     | $133,000 |
-| Emperor Vectre          | $130,000 |
-| Benefactor Schafter V12 | $115,000 |
-| Benefactor Surano       | $110,000 |
-| Dewbauchee Rapid GT     | $110,000 |
+| Pojazd                      | Cena   |
+| --------------------------- | ------ |
+| Vulcar Nebula Turbo         | $23490 |
+
+### Van
+| Pojazd                      | Cena   |
+| --------------------------- | ------ |
+| Vapid Bobcat XL             | $19230 |
+| Vapid Minivan               | $6060  |
+| Declasse Burrito            | $14800 |
+| Vapid Speedo                | $14700 |
+| Vulcar Fagaloa              | $12580 |
+| Bravado Bison               | $21300 |
+| Vapid Speedo Express        | $25000 |
+| Bravado Youga               | $19000 |
+| Bravado Youga Classic       | $25000 |
+| BF Surfer                   | $17000 |
+| Bravado Paradise            | $20000 |
+
+---
+
+# Calabrone Cyclery
+
+#### Motocykl
+| Pojazd       | Cena |
+| ------------ | ---- |
+| Scorcher     | $200 |
+| Fixter       | $650 |
+| Cruiser      | $400 |
+| Tribike I    | $1100 |
+| Tribike II   | $1100 |
+| Tribike III  | $1100 |
+| Bmx          | $300 |
+
+---
+
+#Recycling Center
+
+#### Coupé
+| Pojazd          | Cena  |
+| --------------- | ----- |
+| Declasse Tornado | $5500 |
+| Declasse Tornado | $6000 |
+| Declasse Voodoo  | $5500 |
+
+#### Muscle
+| Pojazd                | Cena  |
+| --------------------- | ----- |
+| Imponte Dukes Beater  | $7500 |
+
+#### Offroad
+| Pojazd           | Cena   |
+| ---------------- | ------ |
+| Canis Bodhi      | $11900 |
+| Karin Rebel      | $14000 |
+
+#### Sedan
+| Pojazd          | Cena  |
+| --------------- | ----- |
+| Albany Emperor  | $4500 |
+
+#### Van
+| Pojazd          | Cena  |
+| --------------- | ----- |
+| BF Surfer       | $7500 |
+| Zirconium Journey | $8500 |
+
+---
+
+#Salon z Łodziami
+
+#### Łódź
+| Pojazd                   | Cena     |
+| ------------------------ | -------- |
+| Jetmax                   | $24574   |
+| Dinghy                   | $13250   |
+| Dinghy 2                 | $9900    |
+| Marquis                  | $205600  |
+| Speeder                  | $80000   |
+| Speeder 2                | $80000   |
+| Squalo                   | $13240   |
+| Suntrap                  | $15480   |
+| Toro                     | $92300   |
+| Toro 2                   | $92300   |
+| Seashark                 | $9500    |
+| Seashark3                | $10650   |
+| Tropic                   | $55000   |
+| Tropic2                  | $55000   |
+| Shitzu Longfin           | $170000  |
+| Smallboat                | $1000    |
+| Sea Ray 650 Fly          | $875000  |
+| Sea Ray L650 Express     | $680000  |
+
+---
+
+#Sanders Motorcycles
+
+#### Motocykl
+| Pojazd                      | Cena   |
+| --------------------------- | ------ |
+| Western Wolfsbane           | $8300  |
+| Western Daemon              | $7890  |
+| Western Bagger              | $8500  |
+| Shitzu Vader                | $17500 |
+| Pegassi Faggio Sport        | $1580  |
+| Pegassi Faggio              | $1330  |
+| Maibatsu Sanchez            | $11450 |
+| Shitzu PCJ-600              | $9590  |
+| Nagasaki BF400              | $9590  |
+| Pegassi Ruffian             | $24770 |
+| Principe Diablous           | $22500 |
+| Pegassi Esskey              | $22000 |
+| LLC Hexer                   | $21500 |
+| Pegassi Bati 801            | $53530 |
+| Maibatsu Manchez            | $12400 |
+| Dinka Thrust                | $40200 |
+| Western Zombie Bobber       | $44940 |
+| Western Zombie Chopper      | $43150 |
+| Western Nightblade          | $52350 |
+| Nagasaki Carbon RS          | $25600 |
+| Western Sovereign           | $26000 |
+| Shitzu Hakuchou             | $54900 |
+| LLC Avarus                  | $50300 |
+| LCC Verin                   | $30000 |
+| Western Big Dude            | $45000 |
+| Maxwell Saltflat 600        | $22000 |
+| LCC Krust                   | $98000 |
+| Spirit Chopper              | $35000 |
+| Marabunta                   | $53000 |
+| LCC T-Rod                   | $133000|
+| Dinka Akuma                 | $48000 |
+| Dinka Double-T              | $45000 |
+| Dinka Enduro                | $38000 |
+| Dinka Verus                 | $18000 |
+| Pegassi FCR-1000            | $45000 |
+| Pegassi Vortex              | $68000 |
+| Principe Nemesis            | $34000 |
+| Nagasaki Blazer             | $6000  |
+| Nagasaki Blazer Street      | $12050 |
+| Nagasaki Stryder            | $140000|
+| BF Raptor                   | $125000|
+| WMC Wintergreen             | $15000 |
+| Western Reever              | $51500 |
+| Nagasaki Shinobi            | $63500 |
+| LCC Innovation              | $76500 |
+| LCC Templar                 | $55650 |
+| Maibtasu Sanchez            | $11450 |
+| KCC Kingz Knight            | $63500 |
+| Western Chief               | $78900 |
+
+---
+
+#Scrapyard
+
+#### Coupé
+| Pojazd                   | Cena  |
+| ------------------------ | ----- |
+| Declasse Tornado Beater  | $5500 |
+| Declasse Tornado Mariachi| $6000 |
+| Declasse Voodoo          | $5500 |
+
+#### Muscle
+| Pojazd                | Cena  |
+| --------------------- | ----- |
+| Imponte Dukes Beater  | $7500 |
+
+#### Offroad
+| Pojazd           | Cena   |
+| ---------------- | ------ |
+| Canis Bodhi      | $11900 |
+| Karin Rebel      | $14000 |
+
+#### Sedan
+| Pojazd          | Cena  |
+| --------------- | ----- |
+| Albany Emperor  | $4500 |
+
+#### Van
+| Pojazd          | Cena  |
+| --------------- | ----- |
+| BF Surfer       | $7500 |
+| Zirconium Journey | $8500 |
+
+---
+
+#YouTool
+
+#### Offroad
+| Pojazd                   | Cena   |
+| ------------------------ | ------ |
+| Vapid Caracara RV        | $65000 |
+| Vapid Sandroamer RV      | $65000 |
+| Vapid Sandking RV        | $125000|
+| Vapid Guardian RV        | $105000|
+| Brute Camper             | $22000 |
+
+#### Van
+| Pojazd                   | Cena   |
+| ------------------------ | ------ |
+| Jobuilt Phantom          | $25000 |
+| MTL Pounder              | $35000 |
+| Maibatsu Mule            | $15000 |
+| MTL Packer               | $25000 |
+| Vapid Utility Truck      | $17000 |
+| Brute Utility Truck      | $20000 |
+| Maibatsu Mule            | $17000 |
+| Maibatsu Mule F          | $17750 |
+| Brute Boxville           | $17500 |
+| Brute Boxville           | $17500 |
+| Brute Boxville           | $17500 |
+| MTL Flatbed              | $31500 |
+| Vapid Benson             | $35000 |
+
+---
+
+# Złomowisko
+
+#### SUV
+| Pojazd       | Cena   |
+| ------------ | ------ |
+| Vapid Sadler | $16430 |
