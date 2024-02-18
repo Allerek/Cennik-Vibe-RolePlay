@@ -260,3 +260,62 @@
 | Pojazd              | Cena     |
 | ------------------- | -------- |
 | Pfister Comet Retro | $225,000 |
+
+---
+
+# Premium Deluxe Motorsport
+
+### Muscle
+| Pojazd                    | Cena     |
+| ------------------------- | -------- |
+| Bravado Buffalo Hellfire  | $213,500 |
+| Declasse Vigero ZX        | $211,500 |
+| Declasse Vigero ZX Cabrio | $200,000 |
+| Schyster Deviant          | $180,980 |
+| Declasse Vigero 690-SS    | $135,000 |
+| Imponte Nightshade        | $125,000 |
+| Vapid Hotknife            | $120,000 |
+| Bravado Gauntlet Hellfire | $120,000 |
+| Vapid Hustler             | $108,000 |
+| Vapid Dominator GTX       | $108,000 |
+| Bravado Buffalo Hellhound | $80,000  |
+| Bravado Buffalo SX        | $68,700  |
+| Bravado Buffalo SL        | $63,000  |
+| Bravado Buffalo A/C       | $55,000  |
+
+### Sport
+| Pojazd                  | Cena     |
+| ----------------------- | -------- |
+| Enus Paragon R          | $425,000 |
+| Dewbauchee Super GTS    | $425,000 |
+| Ocelot Pariah           | $420,000 |
+| Lampadati Cinquemila    | $395,000 |
+| Dewbauchee Seven-70     | $375,410 |
+| Hijak Khamellion        | $340,000 |
+| Toundra Panthere        | $340,000 |
+| Pfister Comet S2        | $300,000 |
+| Grotti Besta GTS        | $280,000 |
+| Coil Raiden             | $270,850 |
+| Pfister Comet SR        | $350,790 |
+| Ocelot Locust           | $245,000 |
+| Obey Argento            | $235,000 |
+| Lampadati Komoda        | $234,100 |
+| Pfister Growler         | $220,000 |
+| Obey 9F                 | $210,000 |
+| Lampadati Furore GT     | $210,000 |
+| Dewbauchee Specter      | $195,000 |
+| Obey 8F Drafter         | $192,800 |
+| Grotti Carbonizzare     | $190,000 |
+| Ocelot Lynx             | $189,000 |
+| Karin Asterope RS       | $187,500 |
+| Ubermacht Oracle XS-LE  | $185,000 |
+| Ubermacht Rhinehart     | $179,000 |
+| Albany V-STR            | $160,000 |
+| Ubermacht Cypher        | $150,000 |
+| Pfister Apollo          | $145,000 |
+| Pfister Comet           | $135,000 |
+| Dewbauchee Massacro     | $133,000 |
+| Emperor Vectre          | $130,000 |
+| Benefactor Schafter V12 | $115,000 |
+| Benefactor Surano       | $110,000 |
+| Dewbauchee Rapid GT     | $110,000 |
