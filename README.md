@@ -220,7 +220,7 @@
 | Karin Atlas    | $15,000 |
 
 ---
-#Wenger Classics
+# Wenger Classics
 
 ### Kompakt
 | Pojazd             | Cena    |
