@@ -218,3 +218,45 @@
 | -------------- | ------- |
 | Karin Vivanite | $20,000 |
 | Karin Atlas    | $15,000 |
+
+---
+#Wenger Classics
+
+### Kompakt
+| Pojazd             | Cena    |
+| ------------------ | ------- |
+| Grotti Brioso 300  | $60,00  |
+| Weeny Issi Classic | $55,000 |
+
+### Klasyk Sportowy
+| Pojazd                    | Cena     |
+| ------------------------- | -------- |
+| Grotti Deimos             | $500,000 |
+| Invetero Coquette Classic | $250,000 |
+| Lampadati Michelli GT     | $135,000 |
+
+### Coupe
+| Pojazd            | Cena    |
+| ----------------- | ------- |
+| Lampadati Pigalle | $70,000 |
+
+### Muscle
+| Pojazd              | Cena     |
+| ------------------- | -------- |
+| Classique Broadway  | $315,000 |
+| Vapid Ellie         | $170,000 |
+| Vapid Dominator GTT | $157,000 |
+| Wilard Eudora       | $115,000 |
+| Bravado Vulture     | $115,000 |
+| Bordeaux Starlette  | $85,600  |
+| Vapid Clique        | $55,000  |
+
+### Sedan
+| Pojazd        | Cena    |
+| ------------- | ------- |
+| Weeny Dynasty | $40,000 |
+
+### Sport
+| Pojazd              | Cena     |
+| ------------------- | -------- |
+| Pfister Comet Retro | $225,000 |
