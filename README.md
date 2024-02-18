@@ -1,5 +1,3 @@
-# CENNIK NADAL W FAZIE TWORZENIA
-
 # Cennik pojazdów Vibe RolePlay
 
 ---
