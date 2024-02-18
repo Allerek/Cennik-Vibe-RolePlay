@@ -1,8 +1,11 @@
 # CENNIK NADAL W FAZIE TWORZENIA
 
 # Cennik pojazdów Vibe RolePlay
+
 ---
+
 ## Vinewood Car Dealership
+
 #### Muscle
 | Pojazd                    | Cena     |
 | ------------------------- | -------- |
@@ -147,6 +150,7 @@
 | Bordeaux Arias      | $14,500 |
 
 ---
+
 ## Prodigy Motorsports
 
 ### JDM
@@ -220,6 +224,7 @@
 | Karin Atlas    | $15,000 |
 
 ---
+
 # Wenger Classics
 
 ### Kompakt
