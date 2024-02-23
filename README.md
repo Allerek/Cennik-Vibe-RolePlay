@@ -477,39 +477,6 @@
 
 ---
 
-#Recycling Center
-
-#### Coupé
-| Pojazd          | Cena  |
-| --------------- | ----- |
-| Declasse Tornado | $5500 |
-| Declasse Tornado | $6000 |
-| Declasse Voodoo  | $5500 |
-
-#### Muscle
-| Pojazd                | Cena  |
-| --------------------- | ----- |
-| Imponte Dukes Beater  | $7500 |
-
-#### Offroad
-| Pojazd           | Cena   |
-| ---------------- | ------ |
-| Canis Bodhi      | $11900 |
-| Karin Rebel      | $14000 |
-
-#### Sedan
-| Pojazd          | Cena  |
-| --------------- | ----- |
-| Albany Emperor  | $4500 |
-
-#### Van
-| Pojazd          | Cena  |
-| --------------- | ----- |
-| BF Surfer       | $7500 |
-| Zirconium Journey | $8500 |
-
----
-
 #Salon z Łodziami
 
 #### Łódź
