@@ -34,7 +34,7 @@
 | Vapid Slamvan             | $14,500  |
 | Imponte Ruiner            | $13,000  |
 
-#### Sport
+##### Sport
 | Pojazd                 | Cena    |
 | ---------------------- | ------- |
 | Invetero Coquette 2008 | $85,000 |
@@ -47,7 +47,7 @@
 | Bravado Buffalo        | $27,000 |
 | Vulcar Zodiac          | $21,500 |
 
-### SUV
+#### SUV
 | Pojazd                    | Cena    |
 | ------------------------- | ------- |
 | Gallivanter Baller ST-D   | $85,000 |
@@ -78,7 +78,7 @@
 | Bravado Gresley           | $21,000 |
 | Dundreary Landstalker     | $13,500 |
 
-### Coupe
+#### Coupe
 | Pojazd                           | Cena    |
 | -------------------------------- | ------- |
 | Ubermacht Zion Classic           | $80,000 |
@@ -91,7 +91,7 @@
 | Ubermacht Sentinel SG3 SE Coupe  | $37,800 |
 | Ubermacht Sentinel SG3 SE Cabrio | $35,000 |
 
-### Offroad
+#### Offroad
 | Pojazd                  | Cena    |
 | ----------------------- | ------- |
 | Maxwell Vagrant         | $85,000 |
@@ -115,13 +115,13 @@
 | Vapid Sandking XL       | $23,000 |
 | Vapid Sandking XL Stock | $20,000 |
 
-### Van
+#### Van
 | Pojazd        | Cena    |
 | ------------- | ------- |
 | Bravado Rumpo | $23,330 |
 | Brute Pony    | $21,370 |
 
-### Sedan
+#### Sedan
 | Pojazd                          | Cena    |
 | ------------------------------- | ------- |
 | Benefactor Streiter Wagon       | $87,000 |
@@ -140,7 +140,7 @@
 | Albany Washington               | $25,500 |
 | Cheval Surge                    | $14,000 |
 
-### Kompakt
+#### Kompakt
 | Pojazd              | Cena    |
 | ------------------- | ------- |
 | Karin Dilettante DX | $27,000 |
@@ -151,7 +151,7 @@
 
 ## Prodigy Motorsports
 
-### JDM
+#### JDM
 | Pojazd                  | Cena     |
 | ----------------------- | -------- |
 | Annis 300R              | $152,000 |
@@ -204,18 +204,18 @@
 | Zirconium Stratum       | $8,440   |
 | Dinka Blista            | $3,850   |
 
-### Offroad
+#### Offroad
 | Pojazd        | Cena    |
 | ------------- | ------- |
 | Annis Hellion | $53,000 |
 
-### Sedan
+#### Sedan
 | Pojazd            | Cena    |
 | ----------------- | ------- |
 | Emperor Altior    | $57,500 |
 | Karin Asterope GZ | $10,000 |
 
-### VAN
+#### VAN
 | Pojazd         | Cena    |
 | -------------- | ------- |
 | Karin Vivanite | $20,000 |
@@ -225,25 +225,25 @@
 
 # Wenger Classics
 
-### Kompakt
+#### Kompakt
 | Pojazd             | Cena    |
 | ------------------ | ------- |
 | Grotti Brioso 300  | $60,00  |
 | Weeny Issi Classic | $55,000 |
 
-### Klasyk Sportowy
+#### Klasyk Sportowy
 | Pojazd                    | Cena     |
 | ------------------------- | -------- |
 | Grotti Deimos             | $500,000 |
 | Invetero Coquette Classic | $250,000 |
 | Lampadati Michelli GT     | $135,000 |
 
-### Coupe
+#### Coupe
 | Pojazd            | Cena    |
 | ----------------- | ------- |
 | Lampadati Pigalle | $70,000 |
 
-### Muscle
+#### Muscle
 | Pojazd              | Cena     |
 | ------------------- | -------- |
 | Classique Broadway  | $315,000 |
@@ -254,12 +254,12 @@
 | Bordeaux Starlette  | $85,600  |
 | Vapid Clique        | $55,000  |
 
-### Sedan
+#### Sedan
 | Pojazd        | Cena    |
 | ------------- | ------- |
 | Weeny Dynasty | $40,000 |
 
-### Sport
+#### Sport
 | Pojazd              | Cena     |
 | ------------------- | -------- |
 | Pfister Comet Retro | $225,000 |
@@ -268,7 +268,7 @@
 
 # Premium Deluxe Motorsport
 
-#### Coupé
+##### Coupé
 | Pojazd                                | Cena    |
 | ------------------------------------- | ------- |
 | Ocelot F620                           | $150,000 |
@@ -279,7 +279,7 @@
 | Pfister Comet S2 Cabrio               | $310,000 |
 | Ubermacht Cypher Compact              | $135,000 |
 
-#### Muscle
+##### Muscle
 | Pojazd                                | Cena     |
 | ------------------------------------- | -------- |
 | Imponte Nightshade                    | $125,000 |
@@ -293,13 +293,13 @@
 | Bravado Buffalo Hellhound             | $80,000  |
 | Bravado Buffalo Hellfire              | $213,500 |
 
-#### Offroad
+##### Offroad
 | Pojazd                                | Cena    |
 | ------------------------------------- | ------- |
 | Canis Kamacho                         | $110,000 |
 | Coil Brawler                          | $230,000 |
 
-#### SUV
+##### SUV
 | Pojazd                                | Cena    |
 | ------------------------------------- | ------- |
 | Benefactor XLS                        | $140,230 |
@@ -316,7 +316,7 @@
 | Benefactor Streiter                   | $108,000 |
 | Benefactor Dubsta I gen               | $245,000 |
 
-#### Sedan
+##### Sedan
 | Pojazd                                | Cena    |
 | ------------------------------------- | ------- |
 | Dewbauchee Exemplar                   | $115,000 |
@@ -330,7 +330,7 @@
 | Vapid Torrence                        | $75,000  |
 | Übermacht Seraph XS II gen            | $109,500 |
 
-#### Sport
+##### Sport
 | Pojazd                                | Cena    |
 | ------------------------------------- | ------- |
 | Grotti Bestia GTS                     | $280,000 |
@@ -368,7 +368,7 @@
 
 # Pillbox Hill Car Dealership
 
-### Coupé
+#### Coupé
 | Pojazd            | Cena  |
 | ----------------- | ----- |
 | Albany Manana     | $9100 |
@@ -376,7 +376,7 @@
 | BF Weevil         | $21000 |
 | Willard Idaho     | $7000 |
 
-### Kompakt
+#### Kompakt
 | Pojazd                   | Cena   |
 | ------------------------ | ------ |
 | Karin Dilettante DX     | $2500  |
@@ -388,7 +388,7 @@
 | Declasse Rhapsody       | $24000 |
 | Maxwell Asbo            | $15000 |
 
-### Muscle
+#### Muscle
 | Pojazd                    | Cena   |
 | ------------------------- | ------ |
 | Vapid Blade               | $35000 |
@@ -403,7 +403,7 @@
 | Vapid Peyote              | $25000 |
 | Declasse Merit Classic    | $14500 |
 
-### Offroad
+#### Offroad
 | Pojazd                   | Cena   |
 | ------------------------ | ------ |
 | Canis Seminole Frontier  | $24000 |
@@ -411,7 +411,7 @@
 | Karin Rebel              | $27000 |
 | Bravado Bison FL         | $12000 |
 
-### SUV
+#### SUV
 | Pojazd                      | Cena   |
 | --------------------------- | ------ |
 | Declasse Rancher XL         | $15160 |
@@ -422,7 +422,7 @@
 | Vapid Sadler                | $16430 |
 | Gallivanter Baller Classic SWB| $8000 |
 
-### Sedan
+#### Sedan
 | Pojazd                        | Cena   |
 | ----------------------------- | ------ |
 | Karin Asterope                | $8000  |
@@ -440,12 +440,12 @@
 | Dundreary Admiral             | $6000  |
 | Willard Tahoma                | $7000  |
 
-### Sport
+#### Sport
 | Pojazd                      | Cena   |
 | --------------------------- | ------ |
 | Vulcar Nebula Turbo         | $23490 |
 
-### Van
+#### Van
 | Pojazd                      | Cena   |
 | --------------------------- | ------ |
 | Vapid Bobcat XL             | $19230 |
@@ -477,7 +477,7 @@
 
 ---
 
-#Salon z Łodziami
+# Salon z Łodziami
 
 #### Łódź
 | Pojazd                   | Cena     |
@@ -503,7 +503,7 @@
 
 ---
 
-#Sanders Motorcycles
+# Sanders Motorcycles
 
 #### Motocykl
 | Pojazd                      | Cena   |
@@ -560,7 +560,7 @@
 
 ---
 
-#Scrapyard
+# Scrapyard
 
 #### Coupé
 | Pojazd                   | Cena  |
