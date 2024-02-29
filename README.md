@@ -439,6 +439,8 @@
 | Vapid Stanier 2nd             | $35000 |
 | Dundreary Admiral             | $6000  |
 | Willard Tahoma                | $7000  |
+| Declasse Imapler SZ           | $25000 |
+| Declasse Imapler LX           | $21000 |
 
 #### Sport
 | Pojazd                      | Cena   |
